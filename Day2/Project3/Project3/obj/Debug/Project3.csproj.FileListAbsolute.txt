@@ -1,0 +1,8 @@
+D:\UST PROJECTS\Day2\Project3\Project3\bin\Debug\Project3.exe.config
+D:\UST PROJECTS\Day2\Project3\Project3\bin\Debug\Project3.exe
+D:\UST PROJECTS\Day2\Project3\Project3\bin\Debug\Project3.pdb
+D:\UST PROJECTS\Day2\Project3\Project3\obj\Debug\Project3.csproj.AssemblyReference.cache
+D:\UST PROJECTS\Day2\Project3\Project3\obj\Debug\Project3.csproj.SuggestedBindingRedirects.cache
+D:\UST PROJECTS\Day2\Project3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+D:\UST PROJECTS\Day2\Project3\Project3\obj\Debug\Project3.exe
+D:\UST PROJECTS\Day2\Project3\Project3\obj\Debug\Project3.pdb
