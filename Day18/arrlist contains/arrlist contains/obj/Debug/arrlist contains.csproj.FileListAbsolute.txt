@@ -1,0 +1,8 @@
+D:\UST PROJECTS\Day18\arrlist contains\arrlist contains\bin\Debug\arrlist contains.exe.config
+D:\UST PROJECTS\Day18\arrlist contains\arrlist contains\bin\Debug\arrlist contains.exe
+D:\UST PROJECTS\Day18\arrlist contains\arrlist contains\bin\Debug\arrlist contains.pdb
+D:\UST PROJECTS\Day18\arrlist contains\arrlist contains\obj\Debug\arrlist contains.csproj.AssemblyReference.cache
+D:\UST PROJECTS\Day18\arrlist contains\arrlist contains\obj\Debug\arrlist contains.csproj.SuggestedBindingRedirects.cache
+D:\UST PROJECTS\Day18\arrlist contains\arrlist contains\obj\Debug\arrlist contains.csproj.CoreCompileInputs.cache
+D:\UST PROJECTS\Day18\arrlist contains\arrlist contains\obj\Debug\arrlist contains.exe
+D:\UST PROJECTS\Day18\arrlist contains\arrlist contains\obj\Debug\arrlist contains.pdb
