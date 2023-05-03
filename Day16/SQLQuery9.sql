@@ -1,0 +1,1 @@
+insert into Person(personID,LastName,FirstName)values(2,'jk','ammu'); 
