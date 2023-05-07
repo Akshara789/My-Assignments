@@ -1,0 +1,6 @@
+D:\UST PROJECTS\Day20\BasicMath1\BasicMath1\bin\Debug\BasicMath1.dll
+D:\UST PROJECTS\Day20\BasicMath1\BasicMath1\bin\Debug\BasicMath1.pdb
+D:\UST PROJECTS\Day20\BasicMath1\BasicMath1\obj\Debug\BasicMath1.csproj.AssemblyReference.cache
+D:\UST PROJECTS\Day20\BasicMath1\BasicMath1\obj\Debug\BasicMath1.csproj.CoreCompileInputs.cache
+D:\UST PROJECTS\Day20\BasicMath1\BasicMath1\obj\Debug\BasicMath1.dll
+D:\UST PROJECTS\Day20\BasicMath1\BasicMath1\obj\Debug\BasicMath1.pdb
