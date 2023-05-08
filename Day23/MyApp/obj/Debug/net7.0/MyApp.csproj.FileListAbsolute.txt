@@ -1,0 +1,15 @@
+D:\UST PROJECTS\Day23\MyApp\bin\Debug\net7.0\MyApp.exe
+D:\UST PROJECTS\Day23\MyApp\bin\Debug\net7.0\MyApp.deps.json
+D:\UST PROJECTS\Day23\MyApp\bin\Debug\net7.0\MyApp.runtimeconfig.json
+D:\UST PROJECTS\Day23\MyApp\bin\Debug\net7.0\MyApp.dll
+D:\UST PROJECTS\Day23\MyApp\bin\Debug\net7.0\MyApp.pdb
+D:\UST PROJECTS\Day23\MyApp\obj\Debug\net7.0\MyApp.csproj.AssemblyReference.cache
+D:\UST PROJECTS\Day23\MyApp\obj\Debug\net7.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\UST PROJECTS\Day23\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfoInputs.cache
+D:\UST PROJECTS\Day23\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfo.cs
+D:\UST PROJECTS\Day23\MyApp\obj\Debug\net7.0\MyApp.csproj.CoreCompileInputs.cache
+D:\UST PROJECTS\Day23\MyApp\obj\Debug\net7.0\MyApp.dll
+D:\UST PROJECTS\Day23\MyApp\obj\Debug\net7.0\refint\MyApp.dll
+D:\UST PROJECTS\Day23\MyApp\obj\Debug\net7.0\MyApp.pdb
+D:\UST PROJECTS\Day23\MyApp\obj\Debug\net7.0\MyApp.genruntimeconfig.cache
+D:\UST PROJECTS\Day23\MyApp\obj\Debug\net7.0\ref\MyApp.dll
