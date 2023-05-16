@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Following Program is an example of c# OOPS</h1>
+        <PRE>
+        using system;
+        using System.Collections.Generic;
+        namespace ConsoleApp12
+        {
+            class Program
+            {
+                 static void Main(string[]args )
+               {
+                  List str = new List()
+                  {
+                    new student{Id=101,Name="Raj"},
+                    new student{Id=102,Name="Rajee"}
+                  };
+                  Console.ReadKey();
+               }
+            }
+            public class student
+            {
+                public int Id { get;set;}
+                public string? Name { get;set;}
+            }
+        }
+        </PRE>
+    </body>
+</html>
