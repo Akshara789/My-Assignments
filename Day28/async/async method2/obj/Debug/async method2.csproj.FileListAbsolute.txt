@@ -1,0 +1,3 @@
+D:\UST PROJECTS\Day28\async\async method2\obj\Debug\async method2.csproj.AssemblyReference.cache
+D:\UST PROJECTS\Day28\async\async method2\obj\Debug\async method2.csproj.SuggestedBindingRedirects.cache
+D:\UST PROJECTS\Day28\async\async method2\obj\Debug\async method2.csproj.CoreCompileInputs.cache
