@@ -1,0 +1,8 @@
+D:\UST PROJECTS\Akshara.ka\Question1\Question1\bin\Debug\Question1.exe.config
+D:\UST PROJECTS\Akshara.ka\Question1\Question1\bin\Debug\Question1.exe
+D:\UST PROJECTS\Akshara.ka\Question1\Question1\bin\Debug\Question1.pdb
+D:\UST PROJECTS\Akshara.ka\Question1\Question1\obj\Debug\Question1.csproj.AssemblyReference.cache
+D:\UST PROJECTS\Akshara.ka\Question1\Question1\obj\Debug\Question1.csproj.SuggestedBindingRedirects.cache
+D:\UST PROJECTS\Akshara.ka\Question1\Question1\obj\Debug\Question1.csproj.CoreCompileInputs.cache
+D:\UST PROJECTS\Akshara.ka\Question1\Question1\obj\Debug\Question1.exe
+D:\UST PROJECTS\Akshara.ka\Question1\Question1\obj\Debug\Question1.pdb
